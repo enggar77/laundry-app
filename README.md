@@ -6,8 +6,11 @@
 ## Screenshots
 
 - Login page
+
 ![Login Page](https://i.ibb.co.com/WnDr6kL/Screenshot-2024-12-27-at-3-54-08-PM.png)
+
 - Dashboard
+
 ![Dasboard](https://i.ibb.co.com/GkFJDmX/Screenshot-2024-12-27-at-3-54-39-PM.png)
 ## Run Locally
 
