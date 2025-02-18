@@ -1,17 +1,12 @@
-
 # Enigma - Laundry App
-
-
 
 ## Screenshots
 
-- Login page
+<img src="public/assets/enigma-login.png" alt="Login Page" width="768" height="auto">
+<img src="public/assets/enigma1.png" alt="Login Page" width="768" height="auto">
+<img src="public/assets/enigma2.png" alt="Login Page" width="768" height="auto">
+<img src="public/assets/enigma3.png" alt="Login Page" width="768" height="auto">
 
-![Login Page](https://i.ibb.co.com/WnDr6kL/Screenshot-2024-12-27-at-3-54-08-PM.png)
-
-- Dashboard
-
-![Dasboard](https://i.ibb.co.com/GkFJDmX/Screenshot-2024-12-27-at-3-54-39-PM.png)
 ## Run Locally
 
 You need to download the API and run locally in your machine from this repo:
@@ -33,13 +28,13 @@ If you use macos then run this on your terminal, make sure `cd` to the api direc
 Then you can start cloning this project.
 
 ```bash
-  git clone https://github.com/enggar77/laundry-app.git
+  git clone https://git.enigmacamp.com/enigma-20/enggar-jihandoko/challenge-react-laundry.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd laundry-app
+  cd challenge-react-laundry
 ```
 
 Install dependencies
@@ -54,16 +49,15 @@ Start the server
   npm run dev
 ```
 
-
 ## Techs
 
 **Client:**
 
-- Vite
-- Tailwind CSS
-- react-router-dom
-- daisyui
-- useReducer, userContext
+-   Vite
+-   Tailwind CSS
+-   react-router-dom
+-   daisyui
+-   useReducer & useContext api
 
 **Server:**
 
