@@ -2,10 +2,7 @@
 
 ## Screenshots
 
-<img src="public/assets/enigma-login.png" alt="Login Page" width="768" height="auto">
 <img src="public/assets/enigma1.png" alt="Login Page" width="768" height="auto">
-<img src="public/assets/enigma2.png" alt="Login Page" width="768" height="auto">
-<img src="public/assets/enigma3.png" alt="Login Page" width="768" height="auto">
 
 ## Run Locally
 
